@@ -1,0 +1,7 @@
+
+/* 1200px */
+@media screen and (min-width:1200px) {
+	body.boxed .wrapper{max-width:1140px;}
+	#header, #topnav, #intro, #container, #footer, #copyright, .stretched{max-width:1200px; margin:0 auto;}
+}
+
